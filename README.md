@@ -29,13 +29,9 @@ syncopia --copy source_folder destination_folder
 ## Contributing
 
 You can open an issue to report any problems to me.
-[!["Github"](https://dcbadge.vercel.app/api/server/vTRqWmADQP)](https://discord.gg/vTRqWmADQP)
+[!["Website"](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](support@neoftlab.dev)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tnt0532)
 ## License
-* [feature] Add an awesome feature ([#33][i33])
-* [bug] Finally fixed this stupid bug ([#19][i19])
 
-[i19]: https://github.com/user/repo/issues/19
-[i33]: https://github.com/user/repo/issues/33
 [MIT](https://choosealicense.com/licenses/mit/)
