@@ -1,0 +1,3 @@
+/home/theo/CLionProjects/Syncopia/cmake-build-debug/CMakeFiles/Syncopia.dir
+/home/theo/CLionProjects/Syncopia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/theo/CLionProjects/Syncopia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
