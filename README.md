@@ -1,13 +1,14 @@
 # Syncopia
 
-![socialguard](https://cdn.discordapp.com/attachments/1086667642158469242/1228056505258086493/Social_Guard.png?ex=662aa7bf&is=661832bf&hm=da3ab9a7cff521eff6836969090069fe8a86a8c90b6d86425ace0feb76dd711c&)
+![Syncopia](https://cdn.discordapp.com/attachments/1040900691650150432/1232047804684304534/Syncopia.png?ex=6628096e&is=6626b7ee&hm=7dbe0430038c0bfbee0b0d4af32d12d67850d9b7aef63b5753aa0039cd5655f5&)
+
 Syncopia is a free and open source software for synchronize your file and folder.
 ## Installation
 
 Use [git](https://git-scm.com/) to clone this repo.
 
 ```bash
-git clone https://github.com/ggtnt/socialguard.git
+git clone https://github.com/ggtnt/syncopia.git
 ```
 
 ## Usage
@@ -29,9 +30,15 @@ syncopia --copy source_folder destination_folder
 ## Contributing
 
 You can open an issue to report any problems to me.
-[!["Website"](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](support@neoftlab.dev)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tnt0532)
+[!["Github issues"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GGTNT/Syncopia/issues)
+
+Do you need help ?
+Contact me:
+
+[!["Website"](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](mailto:support@neoftlab.dev)
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
