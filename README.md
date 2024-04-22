@@ -34,7 +34,6 @@ You can open an issue to report any problems to me.
 [!["Github issues"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GGTNT/Syncopia/issues)
 
 Do you need help ?
-Contact me:
 
 [!["Website"](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](mailto:support@neoftlab.dev)
 
